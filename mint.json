@@ -75,15 +75,6 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete",
-        "teams/get-full-team-object"
-      ]
-    },
-    {
       "group": "Teams",
       "pages": [
         "api-reference/teams/get-full-team-object"
@@ -246,6 +237,60 @@
         "api-reference/blacklist/check-if-a-specific-phone-number-is-present-in-the-blacklist-of-a-specific-user",
         "api-reference/blacklist/remove-a-user-blacklisted-number",
         "api-reference/blacklist/update-the-comment-of-a-users-blacklisted-number"
+      ]
+    },
+    {
+      "group": "Webhook",
+      "pages": [
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist",
+        "api-reference/webhook/get-teams-blacklist"
+      ]
+    },
+    {
+      "group": "Callbacks",
+      "pages": [
+        "api-reference/callbacks/callback",
+        "api-reference/callbacks/ivr-callback"
+      ]
+    },
+    {
+      "group": "Surveys",
+      "pages": [
+        "api-reference/surveys/get-all-survey-answers-for-the-callid-indicated-in-the-route"
+      ]
+    },
+    {
+      "group": "Snoozes",
+      "pages": [
+        "api-reference/snoozes/get-all-snooze-labels"
+      ]
+    },
+    {
+      "group": "Transcriptions",
+      "pages": [
+        "api-reference/transcriptions/get-transcriptions"
+      ]
+    },
+    {
+      "group": "Empower",
+      "pages": [
+        "api-reference/empower/get-multiple-call-objects-using-the-query-parameters-as-a-filter",
+        "api-reference/empower/get-a-call-uuid",
+        "api-reference/empower/get-a-call-object-by-\"call_uuid\"",
+        "api-reference/empower/get-a-call-moment-by-\"call_uuid\"",
+        "api-reference/empower/get-chatgpt-summary-of-a-call-by-\"call_uuid\""
       ]
     }
   ],
