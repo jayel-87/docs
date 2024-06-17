@@ -160,6 +160,93 @@
         "api-reference/calls/get-all-survey-answers-for-the-callid-indicated-in-the-route",
         "api-reference/calls/get-all-current-calls"
       ]
+    },
+    {
+      "group": "Channels",
+      "pages": [
+        "api-reference/channels/event-to-enabledisable-mute-for-specific-channel",
+        "api-reference/channels/event-to-enabledisable-hold-for-specific-channel",
+        "api-reference/channels/event-to-enabledisable-record-for-specific-channel",
+        "api-reference/channels/event-to-hangup-a-specific-channel",
+        "api-reference/channels/event-to-transfer-a-specific-channel",
+        "api-reference/channels/event-to-send-a-dtmf-for-specific-channel"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "pages": [
+        "api-reference/contacts/get-contacts",
+        "api-reference/contacts/get-or-create-contacts",
+        "api-reference/contacts/get-specific-contact",
+        "api-reference/contacts/update-specific-contact",
+        "api-reference/contacts/delete-contact",
+        "api-reference/contacts/update-is_shared-status-for-specific-contact",
+        "api-reference/contacts/update-firstname-for-specific-contact",
+        "api-reference/contacts/update-lastname-for-specific-contact",
+        "api-reference/contacts/update-company-for-specific-contact",
+        "api-reference/contacts/add-new-numbers-for-specific-contact",
+        "api-reference/contacts/delete-numbers-for-specific-contact",
+        "api-reference/contacts/update-a-number-for-specific-contact",
+        "api-reference/contacts/delete-number-for-specific-contact"
+      ]
+    },
+    {
+      "group": "Conversations",
+      "pages": [
+        "api-reference/conversations/lists-conversations-filtered-by-some-parameters",
+        "api-reference/conversations/gets-information-about-specific-conversation",
+        "api-reference/conversations/archive-a-specific-conversation-in-level-1",
+        "api-reference/conversations/archive-a-specific-conversations-in-level-2",
+        "api-reference/conversations/unarchive-a-specific-conversation",
+        "api-reference/conversations/renames-a-specific-conversation",
+        "api-reference/conversations/updates-the-purpose-of-specific-conversation",
+        "api-reference/conversations/lists-members-of-specific-conversation"
+      ]
+    },
+    {
+      "group": "Messages",
+      "pages": [
+        "api-reference/messages/lists-messages-from-a-specific-conversation-in-which-you-have-the-right-to-read",
+        "api-reference/messages/archive-a-specific-message-in-level-1",
+        "api-reference/messages/archive-a-specific-conversations-in-level-2",
+        "api-reference/messages/unarchive-a-specific-message"
+      ]
+    },
+    {
+      "group": "SMS",
+      "pages": [
+        "api-reference/sms/sends-a-message",
+        "api-reference/sms/sends-a-one-way-message"
+      ]
+    },
+    {
+      "group": "Profiles",
+      "pages": [
+        "api-reference/profiles/get-all-profiles",
+        "api-reference/profiles/get-profile"
+      ]
+    },
+    {
+      "group": "Presences",
+      "pages": [
+        "api-reference/presences/get-users-presences",
+        "api-reference/presences/get-all-presences"
+      ]
+    },
+    {
+      "group": "Blacklist",
+      "pages": [
+        "api-reference/blacklist/get-teams-blacklist",
+        "api-reference/blacklist/add-a-number-to-your-teams-blacklist",
+        "api-reference/blacklist/check-if-a-number-is-blacklisted",
+        "api-reference/blacklist/remove-a-team-blacklisted-number",
+        "api-reference/blacklist/update-the-comment-of-a-teams-blacklisted-number",
+        "api-reference/blacklist/get-users-blacklist",
+        "api-reference/blacklist/add-a-number-to-a-users-blacklist",
+        "api-reference/blacklist/check-if-a-specific-phone-number-is-present-in-the-blacklist-of-a-specific-user",
+        "api-reference/blacklist/remove-a-user-blacklisted-number",
+        "api-reference/blacklist/update-the-comment-of-a-users-blacklisted-number"
+      ]
     }
   ],
   "footerSocials": {
