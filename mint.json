@@ -99,6 +99,22 @@
         "api-reference/groups/remove-a-user-from-a-group",
         "api-reference/groups/patch-the-ring-duration"
       ]
+    },
+    {
+      "group": "Users",
+      "pages": [
+        "api-reference/users/get-all-users-from-a-team",
+        "api-reference/users/create-a-user",
+        "api-reference/users/get-a-specific-user",
+        "api-reference/users/delete-a-user",
+        "api-reference/users/update-profile-id",
+        "api-reference/users/get-users-plannings",
+        "api-reference/users/set-users-planning",
+        "api-reference/users/set-users-planning-of-specific-day",
+        "api-reference/users/get-users-presences",
+        "api-reference/users/get-user-snooze-log",
+        "api-reference/users/set-users-snooze-status"
+      ]
     }
   ],
   "footerSocials": {
