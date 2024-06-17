@@ -115,6 +115,23 @@
         "api-reference/users/get-user-snooze-log",
         "api-reference/users/set-users-snooze-status"
       ]
+    },
+    {
+      "group": "Numbers",
+      "pages": [
+        "api-reference/numbers/get-all-numbers",
+        "api-reference/numbers/get-number"
+      ]
+    },
+    {
+      "group": "IVRs",
+      "pages": [
+        "api-reference/ivrs/get-all-ivrs-from-team",
+        "api-reference/ivrs/get-an-ivr",
+        "api-reference/ivrs/get-all-scenarios-from-a-specific-ivr-",
+        "api-reference/ivrs/get-a-scenario-by-id-from-a-specific-ivr",
+        "api-reference/ivrs/ivr-callback"
+      ]
     }
   ],
   "footerSocials": {
