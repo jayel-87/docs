@@ -81,6 +81,12 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+      "group": "Teams",
+      "pages": [
+        "teams/get-full-team-object"
+      ]
     }
   ],
   "footerSocials": {
