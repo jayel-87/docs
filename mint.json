@@ -88,6 +88,17 @@
       "pages": [
         "api-reference/teams/get-full-team-object"
       ]
+    },
+    {
+      "group": "Groups",
+      "pages": [
+        "api-reference/groups/get-all-groups-from-your-team",
+        "api-reference/groups/get-a-specific-group-from-your-team",
+        "api-reference/groups/toggle-free-access-to-the-group",
+        "api-reference/groups/add-a-user-to-a-group",
+        "api-reference/groups/remove-a-user-from-a-group",
+        "api-reference/groups/patch-the-ring-duration"
+      ]
     }
   ],
   "footerSocials": {
