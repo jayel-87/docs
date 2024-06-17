@@ -86,7 +86,7 @@
     {
       "group": "Teams",
       "pages": [
-        "teams/get-full-team-object"
+        "api-reference/teams/get-full-team-object"
       ]
     }
   ],
