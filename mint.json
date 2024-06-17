@@ -132,6 +132,34 @@
         "api-reference/ivrs/get-a-scenario-by-id-from-a-specific-ivr",
         "api-reference/ivrs/ivr-callback"
       ]
+    },
+    {
+      "group": "Tags",
+      "pages": [
+        "api-reference/tags/get-all-tags",
+        "api-reference/tags/create-a-tag",
+        "api-reference/tags/get-a-specific-tag"
+      ]
+    },
+    {
+      "group": "Conferences",
+      "pages": [
+        "api-reference/conferences/get-all-conferences-from-team",
+        "api-reference/conferences/get-a-conference",
+        "api-reference/conferences/update-pincode-for-specific-conference"
+      ]
+    },
+    {
+      "group": "Calls",
+      "pages": [
+        "api-reference/calls/get-all-calls",
+        "api-reference/calls/get-all-calls1",
+        "api-reference/calls/get-call-by-id",
+        "api-reference/calls/archive-call",
+        "api-reference/calls/archive-call-with-channelid",
+        "api-reference/calls/get-all-survey-answers-for-the-callid-indicated-in-the-route",
+        "api-reference/calls/get-all-current-calls"
+      ]
     }
   ],
   "footerSocials": {
