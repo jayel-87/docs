@@ -3,16 +3,16 @@
   "name": "Ringover API",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#27c9d6",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
-      "from": "#fff",
-      "to": "#27c9d6"
+      "from": "#0D9373",
+      "to": "#07C983"
     }
   },
   "topbarLinks": [
